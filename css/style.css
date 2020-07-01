@@ -113,7 +113,7 @@ a {
   position: absolute;
   width: 15px;
   height: 15px;
-  background-image: url(/img/icons/cart-icon.svg);
+  background-image: url(../img/icons/cart-icon.svg);
   display: inline-block;
   left: -40px;
   top: 33px;
@@ -414,7 +414,7 @@ dt sup {
   position: relative;
   display: flex;
   min-height: 420px;
-  background-image: url(/img/map.png);
+  background-image: url(../img/map.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -703,7 +703,7 @@ dt sup {
 
 .filter-option input[type="checkbox"]:checked + label::before {
   border: none;
-  background-image: url(/img/icons/checkbox-on.svg);
+  background-image: url(../img/icons/checkbox-on.svg);
 }
 
 .filter-input-radio {
@@ -722,7 +722,7 @@ dt sup {
   position: absolute;
   width: 25px;
   height: 25px;
-  background-image: url(/img/icons/radio-off.svg);
+  background-image: url(../img/icons/radio-off.svg);
   opacity: 0.4;  
   left: -15px;
   top: -3px;
@@ -733,7 +733,7 @@ dt sup {
 }
 
 .filter-option input[type="radio"]:checked + label::before {
-  background-image: url(/img/icons/radio-on.svg);
+  background-image: url(../img/icons/radio-on.svg);
 }
 
 .button-filter {
@@ -849,7 +849,7 @@ dt sup {
   left: 0;
   width: 360px;
   height: 40px;
-  background-image: url("/img/icons/browser.svg");  
+  background-image: url("../img/icons/browser.svg");  
   position: absolute;
   opacity: 0.12;
 }
